@@ -1,0 +1,38 @@
+Git --> Git is a version control system that help us to track the changes in the code ..
+
+Exmaple in our banking system we have track ofa ll the detial like ,how much money is credited ion our bank account , how much tax we have to pay
+same as it is git is used to mentain the code and track the code...
+
+git hub --> Git hub is the website that that help the developer to mentain and store the code.
+
+https://github.com
+
+
+Create a git repositry , by default it was with a readMe.md file which contain the realtive information regards the project.
+
+
+
+--- Open git bash and config your name and email----
+
+git config --global user.name "Aaryan sharma"  //This is how we config our name...
+
+git config --global user.email "aaryansharma0575@gmail.com"  //This is how we config our email...
+
+git config --list //Used to get all the details of the entered location....
+
+
+
+
+CLONE
+
+git clone 'https://github.com/aaryansharmaaa/practice-git.git'   //Used to clone the repo from globar to local machine...
+
+ls //Used to list all the files in the git....
+
+ls -a //Used to get all the hidden files...
+
+git status //Used to get the status of all folder in git.....
+
+git add . //Used to add the file...
+
+git commit -m "Comment" ///Used to comit....
